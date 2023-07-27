@@ -1,1 +1,1 @@
-first file main branch
+first file main branch after rebase commit
